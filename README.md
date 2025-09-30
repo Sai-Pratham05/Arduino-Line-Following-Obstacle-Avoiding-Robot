@@ -8,11 +8,9 @@
 ## 🤖 Actual Robot Build
 
 <div align="center">
-<img src="images/robot-photo.jpg" width="400" height="auto" alt="Arduino Line Following and Obstacle Avoiding Robot">
+<img src="images/image1.png" width="400" height="auto" alt="Arduino Line Following and Obstacle Avoiding Robot">
 <p><em>The completed Arduino Line Following and Obstacle Avoiding Robot with ultrasonic sensor, IR sensors, and motor driver</em></p>
 </div>
-
-> **Note:** Save your robot photo as `robot-photo.jpg` in the `images/` directory to display it here.
 
 #
 
