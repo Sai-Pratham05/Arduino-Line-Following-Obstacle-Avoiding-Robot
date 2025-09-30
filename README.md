@@ -1,7 +1,7 @@
 # <p align="Center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="25" height="25"/> </a> Arduino Line Following And Obstacle Avoiding Robot
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sai-Pratham05/Arduino-Line-Following-Obstacle-Avoiding-Robot/feature/arduino-robot-project/images/image1.jpg" width="300" height="auto" alt="Arduino Line Following and Obstacle Avoiding Robot">
+<img src="images/image1.jpg" width="300" height="auto" alt="Arduino Line Following and Obstacle Avoiding Robot">
 <p><em>The completed Arduino Line Following and Obstacle Avoiding Robot with ultrasonic sensor, IR sensors, and motor driver</em></p>
 </div>
 
